@@ -1,8 +1,6 @@
 # A-B-Testing-and-Chi-Square-Analysis-of-Website-Buttons
 
 
-# A/B Testing and Chi-Square Analysis of Website Button Variants
-
 ## 📌 Project Overview
 
 This project investigates the performance of four website button variants using the **Chi-Square Test of Independence**. The goal was to determine whether different button designs influenced users' click behavior and identify which variant performed best based on statistical evidence and user engagement metrics.
