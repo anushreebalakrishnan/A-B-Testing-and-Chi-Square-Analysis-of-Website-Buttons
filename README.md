@@ -72,8 +72,8 @@ A lower HRR suggests that users are finding relevant content after clicking.
 
 The statistical analysis did not identify a single dominant winner based solely on click-through rate. However, **Versions A and C emerged as the strongest-performing variants**.
 
-When both click performance and user engagement are considered, **Version A** appears to offer the best overall user experience, while **Version C** is more effective at attracting clicks but less successful at retaining user engagement.
----
+**When both click performance and user engagement are considered, **Version A** appears to offer the best overall user experience, while **Version C** is more effective at attracting clicks but less successful at retaining user engagement.
+**---
 
 ## 🛠️ Technologies Used
 
