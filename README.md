@@ -1,4 +1,4 @@
-# A-B-Testing-and-Chi-Square-Analysis-of-Website-Buttons
+# A/B Testing and Chi Square Analysis of Website Buttons
 
 ## 📌 Project Overview
 
